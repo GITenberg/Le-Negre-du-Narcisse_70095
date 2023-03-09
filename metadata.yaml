@@ -1,0 +1,58 @@
+_repo: Le-Negre-du-Narcisse_70095
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Humières, Robert d'
+    aliases:
+    - D'Humières, Robert, vicomte
+    - D'Humieres, Robert, vicomte
+    - d'Humières, Robert
+    - Humières, Robert, vicomte d'
+    - Humieres, Robert d'
+    birthdate: 1868
+    deathdate: 1915
+    gutenberg_agent_id: '47752'
+    url: http://www.gutenberg.org/2009/agents/47752
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Robert_d%27Humi%C3%A8res
+    - https://fr.wikipedia.org/wiki/Robert_d%27Humi%C3%A8res
+creator:
+  author:
+    agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Joseph Conrad Theodore
+    - Korzeniowski, Józef Konrad Teodor
+    - Korzeniowski, Jozef Konrad Teodor
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: https://en.wikipedia.org/wiki/Joseph_Conrad
+description: ''
+gutenberg_issued: '2023-02-21'
+identifiers:
+  gutenberg: '70095'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k9608731q
+pgterms:marc905: 20210518214954conrad
+pgterms:marc906: '1913'
+pgterms:marc907: FR
+production_note: René Galluvot (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aFrance :$bGallimard, $c1913, reprint 1960.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea stories'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'West Indians -- England -- Fiction'
+- !lcsh 'Tuberculosis -- Patients -- Fiction'
+- !lcsh 'Terminally ill -- Fiction'
+- !lcsh 'Ocean travel -- Fiction'
+- !lcsh 'Black people -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Le Nègre du "Narcisse"
+url: http://www.gutenberg.org/ebooks/70095
